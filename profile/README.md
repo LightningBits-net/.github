@@ -20,4 +20,3 @@ Here are some of the projects we're working on:
 If you're interested in working with us, feel free to reach out:
 
 - Email: rafaelmorel@lightningbits.com
-- Phone: 347-610-9170
