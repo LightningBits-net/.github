@@ -1,0 +1,23 @@
+<div align="center">
+  <img src="https://github.com/LightningBits-net/LightningBits/blob/main/logo.png" alt="LightningBits Logo" width="200">
+  <h1>LightningBits</h1>
+  <p>Welcome to the official GitHub page for LightningBits, a software development company specializing in .NET Core, Blazor, and OpenAI API.</p>
+  <p>Check out our website at https://www.lightningbits.net/</p>
+</div>
+
+---
+
+## Projects
+
+Here are some of the projects we're working on:
+
+- [e-Commerce](https://github.com/LightningBit/e-Commerce): A Blazor-based e-commerce platform with CRUD functionality.
+- [MyBlog](https://github.com/LightningBit/MyBlog): A personal blog built with Blazor and Tailwind CSS.
+- [BlogCart](https://github.com/LightningBit/BlogCart): An e-commerce platform that allows users to create and manage their own online shops with a checkout feature. Built with Blazor, SQLite, and Stripe.
+
+## Contact Us
+
+If you're interested in working with us, feel free to reach out:
+
+- Email: rafaelmorel@lightningbits.com
+- Phone: 347-610-9170
