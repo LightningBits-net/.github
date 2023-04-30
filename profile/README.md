@@ -2,7 +2,7 @@
   <img src="https://avatars.githubusercontent.com/u/127812844?s=96&v=4" alt="LightningBits Logo" width="200">
   <h1>LightningBits</h1>
   <p>Welcome to the official GitHub page for LightningBits, a software development company specializing in .NET Core, Blazor, and OpenAI API.</p>
-  <p>Check out our website at https://www.lightningbits.net/</p>
+  <p>Check out our website at https://lightningbits.net/</p>
 </div>
 
 ---
